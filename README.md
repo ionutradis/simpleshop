@@ -8,5 +8,5 @@
  
  # COMMANDS
   Will generate a loiality coupon for users who placed their first order and passed more than 15 minutes.
- * `generate:loyality:vouchers`
+ * `php artisan generate:loyality:vouchers`
  
